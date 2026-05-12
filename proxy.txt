@@ -1,7 +1,7 @@
-www.google-analytics.com
-.firefox.com
-.fitbit.com
-.kraken.com
-.monzo.com
-.mozilla.com
-.openrouter.ai
+DOMAIN,www.google-analytics.com
+DOMAIN-SUFFIX,firefox.com
+DOMAIN-SUFFIX,fitbit.com
+DOMAIN-SUFFIX,kraken.com
+DOMAIN-SUFFIX,monzo.com
+DOMAIN-SUFFIX,mozilla.com
+DOMAIN-SUFFIX,openrouter.ai

@@ -1,8 +1,8 @@
-.biliimg.com
-.chiphell.com
-.chuangkit.com
-.cmbimg.com
-.freshippo.com
-.ip138.com
-time.apple.com
-.zj96596.com
+DOMAIN-SUFFIX,biliimg.com
+DOMAIN-SUFFIX,chiphell.com
+DOMAIN-SUFFIX,chuangkit.com
+DOMAIN-SUFFIX,cmbimg.com
+DOMAIN-SUFFIX,freshippo.com
+DOMAIN-SUFFIX,ip138.com
+DOMAIN-SUFFIX,time.apple.com
+DOMAIN-SUFFIX,zj96596.com
