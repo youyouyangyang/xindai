@@ -1,8 +1,8 @@
-biliimg.com
-chiphell.com
-chuangkit.com
-cmbimg.com
-freshippo.com
-ip138.com
+.biliimg.com
+.chiphell.com
+.chuangkit.com
+.cmbimg.com
+.freshippo.com
+.ip138.com
 time.apple.com
-zj96596.com
+.zj96596.com

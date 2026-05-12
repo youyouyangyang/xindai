@@ -1,7 +1,7 @@
 www.google-analytics.com
-firefox.com
-fitbit.com
-kraken.com
-monzo.com
-mozilla.com
-openrouter.ai
+.firefox.com
+.fitbit.com
+.kraken.com
+.monzo.com
+.mozilla.com
+.openrouter.ai
