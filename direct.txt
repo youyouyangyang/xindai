@@ -1,8 +1,0 @@
-DOMAIN-SUFFIX,biliimg.com
-DOMAIN-SUFFIX,chiphell.com
-DOMAIN-SUFFIX,chuangkit.com
-DOMAIN-SUFFIX,cmbimg.com
-DOMAIN-SUFFIX,freshippo.com
-DOMAIN-SUFFIX,ip138.com
-DOMAIN-SUFFIX,time.apple.com
-DOMAIN-SUFFIX,zj96596.com
