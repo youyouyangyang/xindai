@@ -1,7 +1,0 @@
-DOMAIN,www.google-analytics.com
-DOMAIN-SUFFIX,firefox.com
-DOMAIN-SUFFIX,fitbit.com
-DOMAIN-SUFFIX,kraken.com
-DOMAIN-SUFFIX,monzo.com
-DOMAIN-SUFFIX,mozilla.com
-DOMAIN-SUFFIX,openrouter.ai
