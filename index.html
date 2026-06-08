@@ -387,7 +387,7 @@
         if (hasAnswered) {
             feedbackEl.style.display = 'block';
             feedbackEl.className = savedAnswer.isCorrect ? 'feedback correct' : 'feedback incorrect';
-            feedbackEl.innerHTML = savedAnswer.isCorrect ? `回答正确！` : `回答错误。正确答案是：${q.answer}`;
+            feedbackEl.innerHTML = savedAnswer.isCorrect ? `回答正确！` : `回答错误。正确答案：${q.answer}`;
             submitBtn.textContent = '修改答案';
         } else {
             feedbackEl.style.display = 'none';
